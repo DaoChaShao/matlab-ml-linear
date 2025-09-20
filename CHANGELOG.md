@@ -11,7 +11,12 @@
 * 5967b39 - feat: add a readme file in English (DaoChaShao, 2025-09-20)
 * 89307ba - feat: add ignore files (DaoChaShao, 2025-09-20)
 
+#### DOCS
+
+* 55f459d - docs: add the changelog file (DaoChaShao, 2025-09-20)
+
 #### OTHER
 
+* fe1bcdc - update: add new function (DaoChaShao, 2025-09-20)
 * 459b1a3 - Create LICENCE (DaoChaShao, 2025-09-20)
 
